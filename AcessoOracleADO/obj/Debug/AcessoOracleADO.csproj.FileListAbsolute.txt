@@ -1,0 +1,9 @@
+D:\dev\AcessoOracleADO\AcessoOracleADO\obj\Debug\AcessoOracleADO.csprojAssemblyReference.cache
+D:\dev\AcessoOracleADO\AcessoOracleADO\obj\Debug\AcessoOracleADO.csproj.CoreCompileInputs.cache
+D:\dev\AcessoOracleADO\AcessoOracleADO\bin\Debug\AcessoOracleADO.exe.config
+D:\dev\AcessoOracleADO\AcessoOracleADO\bin\Debug\AcessoOracleADO.exe
+D:\dev\AcessoOracleADO\AcessoOracleADO\bin\Debug\AcessoOracleADO.pdb
+D:\dev\AcessoOracleADO\AcessoOracleADO\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\dev\AcessoOracleADO\AcessoOracleADO\obj\Debug\AcessoOracleADO.csproj.CopyComplete
+D:\dev\AcessoOracleADO\AcessoOracleADO\obj\Debug\AcessoOracleADO.exe
+D:\dev\AcessoOracleADO\AcessoOracleADO\obj\Debug\AcessoOracleADO.pdb
